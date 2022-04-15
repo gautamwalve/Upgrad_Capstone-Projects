@@ -1,2 +1,3 @@
 # Upgrad_Capstone-Projects
-All Upgrad Projects 
+List of Upgrad Compiled Projects for Portfolio
+1. Investment Analysis : Sparks Fund
